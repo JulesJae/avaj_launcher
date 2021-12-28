@@ -15,7 +15,7 @@ You need javac to build the program.
 A sample file is given in the repo
 ## File structure
 
-The first line is a single integer for the number of weather changes. The following lines are an aircraft each, defined by 5 tokens separated by a single space : ``[Aircraft type, Aircraft name, longitude, latitude, height]``:
+The first line is a single integer for the number of weather changes. The following lines are an aircraft each, defined by 5 tokens separated by a single space : ``[Aircraft type, Aircraft name, longitude, latitude, height]`:`
 Aircraft type : String [Helicopter, Baloon, JetPlane]
 Aircraft name : String
 longitude : int

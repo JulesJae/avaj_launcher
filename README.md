@@ -6,7 +6,7 @@ Small java introduction program which shows java code structures through a simul
 
 You need javac to build the program.
 
-javac *.java
+``javac *.java``
 
 ## Usage
 

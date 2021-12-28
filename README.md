@@ -1,16 +1,14 @@
 # avaj_launcher
-Introduction to Java and POO
-
-Small java introduction program which shows java code structures through a simulator
+Small java and POO introduction program which shows java code structures through a simulator
 ## Build
 
 You need javac to build the program.
 
-``javac *.java``
+`javac *.java`
 
 ## Usage
 
-``java Simulator [simulator file]``
+`java Simulator [simulator file]`
 
 A sample file is given in the repo
 ## File structure

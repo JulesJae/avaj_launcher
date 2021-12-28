@@ -1,0 +1,7 @@
+55
+Baloon B1 2 3 20
+Baloon B2 14 81 66
+Baloon B1 23 3 33
+Baloon B2 31 84 12
+Baloon B1 62 31 5
+Baloon B2 43 81 256
